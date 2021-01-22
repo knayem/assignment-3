@@ -1,5 +1,7 @@
 
 
+ //My assignment code link: https://github.com/knayem/assignment-3/blob/main/assignment.js
+
 //CODE-1
 
 
@@ -27,7 +29,7 @@
        return Meter;
       
    }
-       var RESULT=kilometerToMeter(2 );
+       var RESULT=kilometerToMeter(5);
        console.log("Result is : ",RESULT); 
 
       /////////CODE-1
@@ -49,7 +51,7 @@
 
      return budget;
      }
-        var TOTAL=budgetCalculator(0,3,2);
+        var TOTAL=budgetCalculator(1,3,2);
         console.log("Total Budget Cost :",TOTAL);
 
     ///////////CODE-2
